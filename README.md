@@ -4,8 +4,7 @@
 *Where else you can find me:*  
 Discord: Admer456#2798  
 Twitter: https://twitter.com/theAdmer456  
-ModDB: https://www.moddb.com/members/admer456  
-GameBanana: https://gamebanana.com/members/1418414
+YouTube: https://www.youtube.com/channel/UCS3knPfFtsrVAy7Av2v1hQA
 
 Check out my cool projects:
 * [**Nail & Crescent**](https://github.com/Admer456/Nail-Crescent) (active)
