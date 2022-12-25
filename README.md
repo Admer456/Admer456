@@ -3,8 +3,9 @@
 
 *Where else you can find me:*  
 Discord: Admer456#2798  
-Twitter: https://twitter.com/theAdmer456  
-YouTube: https://www.youtube.com/c/Admer456
+Mastodon: https://tech.lgbt/@admer  
+YouTube: https://www.youtube.com/c/Admer456  
+LinkTree: https://linktr.ee/admer456
 
 I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar.
 
