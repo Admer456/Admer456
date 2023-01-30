@@ -14,14 +14,16 @@ Check out my cool projects:
     - Mod base for Half-Life, adding lots of entities for mappers
 * [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4)
     - My little research project, ultimately aiming to develop a C# scripting system for C++ apps
-* [**BurekTech X**](https://github.com/Admer456/btx-engine) (early WiP, check back in 2024 if you wanna actually try it out)
-    - MIT-licenced game engine for retro shooters
+* [**Elegy Engine**](https://github.com/ElegyEngine) (early WiP, check back in 2024 for demos!)
+    - C# MIT-licenced game engine for retro shooters, based on Godot
 
 Some discontinued but still kinda neat projects:
+* [**BurekTech X**](https://github.com/Admer456/btx-engine) - discontinued in favour of Elegy
+    - C++ MIT-licenced game engine for retro shooters
 * [**FoxGLBox**](https://github.com/Admer456/FoxGLBox)
-    - OpenGL high-level rendering library
-* [**BUREKTech**](https://github.com/Admer456/ioq3-burek)
-    - GPL2-licenced engine for retro shooters, based on ioquake3
+    - OpenGL high-level rendering library in C++
+* [**BUREKTech**](https://github.com/Admer456/ioq3-burek) - discontinued in favour of BurekTech X
+    - C++ GPL2-licenced engine for retro shooters, based on ioquake3
     - Was used to make a [game demo](https://www.youtube.com/watch?v=SzYP1LTfNuk&t=1668s)
 
 Planned projects:
