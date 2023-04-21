@@ -7,7 +7,7 @@ Mastodon: https://tech.lgbt/@admer
 YouTube: https://www.youtube.com/c/Admer456  
 LinkTree: https://linktr.ee/admer456
 
-I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar.
+I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in C++ and, as of lately, C#.
 
 Check out my cool projects:
 * [**Half-Life ADM**](https://github.com/Admer456/halflife-adm)
@@ -27,6 +27,6 @@ Some discontinued but still kinda neat projects:
     - Was used to make a [game demo](https://www.youtube.com/watch?v=SzYP1LTfNuk&t=1668s)
 
 Planned projects:
-- Higher-level audio library using OpenAL-soft
+- High-level audio library using MiniAudio as the backend
 - Generic plugin-based map editor with crazy ideas, suitable for Quake and Half-Life
 - Lots of user-friendly modding tools for Half-Life
