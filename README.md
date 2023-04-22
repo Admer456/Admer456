@@ -7,26 +7,24 @@ Mastodon: https://tech.lgbt/@admer
 YouTube: https://www.youtube.com/c/Admer456  
 LinkTree: https://linktr.ee/admer456
 
-I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in C++ and, as of lately, C#.
+I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in C++ and, as of lately, C#. Portfolio website coming soon!
 
 Check out my cool projects:
-* [**Half-Life ADM**](https://github.com/Admer456/halflife-adm)
-    - Mod base for Half-Life, adding lots of entities for mappers
-* [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4)
-    - My little research project, ultimately aiming to develop a C# scripting system for C++ apps
-* [**Elegy Engine**](https://github.com/ElegyEngine) (early WiP, check back in 2024 for demos!)
-    - C# MIT-licenced game engine for retro shooters, based on Godot
+* [**Elegy Engine**](https://github.com/ElegyEngine) - retro FPS game engine
+    - C#, MIT-licenced, currently using Godot as a backend
+    - Early work in progress, please check back in 2024 for demos!
+* [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
+* [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - research in C# scripting for C++ apps
+
+I've made contributions to the following:
+* [**TrenchBroom**](https://github.com/TrenchBroom/TrenchBroom) - an intuitive level editor for Quake games and engines
+    - Default entity property handling ([initiated](https://github.com/TrenchBroom/TrenchBroom/pull/3941), [finalised](https://github.com/TrenchBroom/TrenchBroom/pull/4164))
+* [**Vookoo**](https://github.com/andy-thomason/Vookoo) - a C++ Vulkan abstraction library
+    - Fixes for examples ([initiated and merged](https://github.com/andy-thomason/Vookoo/pull/45))
 
 Some discontinued but still kinda neat projects:
 * [**BurekTech X**](https://github.com/Admer456/btx-engine) - discontinued in favour of Elegy
-    - C++ MIT-licenced game engine for retro shooters
-* [**FoxGLBox**](https://github.com/Admer456/FoxGLBox)
-    - OpenGL high-level rendering library in C++
+    - C++ MIT-licenced retro FPS game engine
 * [**BUREKTech**](https://github.com/Admer456/ioq3-burek) - discontinued in favour of BurekTech X
-    - C++ GPL2-licenced engine for retro shooters, based on ioquake3
+    - C++ GPL2-licenced FPS game engine, based on ioquake3
     - Was used to make a [game demo](https://www.youtube.com/watch?v=SzYP1LTfNuk&t=1668s)
-
-Planned projects:
-- High-level audio library using MiniAudio as the backend
-- Generic plugin-based map editor with crazy ideas, suitable for Quake and Half-Life
-- Lots of user-friendly modding tools for Half-Life
