@@ -2,10 +2,10 @@
 ## Hey hey hey, welcome to my GitHub profile!
 
 *Where else you can find me:*  
-Discord: Admer456#2798  
+*Discord: Admer456#2798  
 YouTube: https://www.youtube.com/c/Admer456  
 Mastodon: https://tech.lgbt/@admer  
-LinkTree: https://linktr.ee/admer456
+LinkTree: https://linktr.ee/admer456*
 
 I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in **C++** and, as of lately, **C#**.
 
