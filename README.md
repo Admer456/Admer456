@@ -18,7 +18,7 @@ Check out my cool projects:
 * [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
 * [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - research in C# scripting for C++ apps
 
-I've made contributions to the following:
+I've contributed to:
 * [**TrenchBroom**](https://github.com/TrenchBroom/TrenchBroom) - an intuitive level editor for Quake games and engines
     - Default entity property handling ([initiated](https://github.com/TrenchBroom/TrenchBroom/pull/3941), [finalised](https://github.com/TrenchBroom/TrenchBroom/pull/4164))
 * [**Vookoo**](https://github.com/andy-thomason/Vookoo) - a C++ Vulkan abstraction library
