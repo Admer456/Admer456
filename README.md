@@ -9,7 +9,7 @@ LinkTree: https://linktr.ee/admer456*
 
 I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in **C++** and, as of lately, **C#**.
 
-Portfolio website coming soon!
+My interests include engine programming, game programming, making Half-Life modding great again, and a bunch of other non-code stuff. Portfolio website coming soon!
 
 Check out my cool projects:
 * [**Elegy Engine**](https://github.com/ElegyEngine) - retro FPS game engine
