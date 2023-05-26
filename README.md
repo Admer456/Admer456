@@ -24,7 +24,7 @@ I've contributed to:
 * [**Vookoo**](https://github.com/andy-thomason/Vookoo) - a C++ Vulkan abstraction library
     - Fixes for examples ([initiated and merged](https://github.com/andy-thomason/Vookoo/pull/45))
 
-Some discontinued but still kinda neat projects:
+Here's some discontinued but still kinda neat projects of mine:
 * [**BurekTech X**](https://github.com/Admer456/btx-engine) - discontinued in favour of Elegy
     - C++ MIT-licenced retro FPS game engine
 * [**BUREKTech**](https://github.com/Admer456/ioq3-burek) - discontinued in favour of BurekTech X
