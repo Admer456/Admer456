@@ -15,8 +15,8 @@ Check out my cool projects:
 * [**Elegy Engine**](https://github.com/ElegyEngine) - retro FPS game engine
     - C#, MIT-licenced, currently using Godot as a backend
     - Early work in progress, please check back in 2024 for demos!
-* [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
 * [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - research in C# scripting for C++ apps
+* [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
 
 I've contributed to:
 * [**TrenchBroom**](https://github.com/TrenchBroom/TrenchBroom) - an intuitive level editor for Quake games and engines
