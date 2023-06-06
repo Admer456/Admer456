@@ -2,8 +2,8 @@
 ## Hey hey hey, welcome to my GitHub profile!
 
 *Where else you can find me:*  
-*Discord: Admer456#2798  
-Mastodon: https://tech.lgbt/@admer  
+*Mastodon: https://tech.lgbt/@admer  
+Discord: Admer456#2798  
 YouTube: https://www.youtube.com/c/Admer456  
 LinkTree: https://linktr.ee/admer456*
 
