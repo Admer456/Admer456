@@ -7,7 +7,7 @@ Discord: Admer456#2798
 YouTube: https://www.youtube.com/c/Admer456  
 LinkTree: https://linktr.ee/admer456*
 
-I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar. I mainly do stuff in **C++** and, as of lately, **C#**.
+I mainly do stuff in **C++** and, as of lately, **C#**. I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar.
 
 My interests include engine programming, game programming, making Half-Life modding great again, and a bunch of other non-code stuff. Portfolio website coming soon!
 
