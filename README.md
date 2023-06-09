@@ -22,7 +22,7 @@ I've contributed to:
 * [**TrenchBroom**](https://github.com/TrenchBroom/TrenchBroom) - an intuitive level editor for Quake games and engines
     - Default entity property handling ([initiated](https://github.com/TrenchBroom/TrenchBroom/pull/3941), [finalised](https://github.com/TrenchBroom/TrenchBroom/pull/4164))
 * [**Vookoo**](https://github.com/andy-thomason/Vookoo) - a C++ Vulkan abstraction library
-    - Fixes for examples ([initiated and merged](https://github.com/andy-thomason/Vookoo/pull/45))
+    - Fixes for examples ([merged](https://github.com/andy-thomason/Vookoo/pull/45))
 
 Here's some discontinued but still kinda neat projects of mine:
 * [**BurekTech X**](https://github.com/Admer456/btx-engine) - discontinued in favour of Elegy
