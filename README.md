@@ -1,4 +1,3 @@
-
 ## Hey hey hey, welcome to my GitHub profile!
 
 *Where else you may find me:*  
