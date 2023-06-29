@@ -16,6 +16,7 @@ Check out my cool projects:
     - Early work in progress, please check back in 2024 for demos!
 * [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - research in C# scripting for C++ apps
 * [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
+    - Early work in progress, check back in 2024!
 
 I've contributed to:
 * [**TrenchBroom**](https://github.com/TrenchBroom/TrenchBroom) - an intuitive level editor for Quake games and engines
