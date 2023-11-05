@@ -8,7 +8,7 @@ LinkTree: https://linktr.ee/admer456*
 
 My interests include engine programming, game programming, GUI tools, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics and music making. *Portfolio website coming sometime soon!*
 
-I also have a [small blog](https://admer456.github.io/slice-of-life/). That way you can always know what I'm up to!
+I also have a [small blog](https://microfox.dev/). That way you can always know what I'm up to!
 
 I mainly do stuff in **C#** and **C++**. I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar, as well as doing some freelance work in Source and Unreal.
 
