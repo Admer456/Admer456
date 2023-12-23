@@ -7,7 +7,7 @@ Discord: `admer456` - [personal server](https://discord.gg/tneyeuhgxH)
 LinkTree: https://linktr.ee/admer456  
 Ko-fi: https://ko-fi.com/admer456*
 
-My interests include engine programming, game programming, GUI tools, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics and music making. *Portfolio website coming sometime soon!*
+My interests include game & engine programming, GUI tools, VR, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics, music and driving simulators. *Portfolio website coming sometime soon!*
 
 I also have a [small blog](https://microfox.dev/). That way you can always know what I'm up to!
 
