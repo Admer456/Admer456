@@ -15,9 +15,8 @@ I mainly do stuff in **C#** and **C++**. I am currently studying software engine
 
 Check out my cool projects:
 * [**Elegy Engine**](https://github.com/ElegyEngine) - retro FPS game engine
-    - C#, MIT-licenced, currently using Godot as a backend
-    - Early work in progress, please check back in 2024 for demos!
-* [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - research in C# scripting for C++ apps
+    - C#, MIT-licenced
+    - Early work in progress, please check back in 2025 for demos!
 * [**Half-Life ADM**](https://github.com/Admer456/halflife-adm) - mod base for Half-Life
     - Early work in progress, check back in 2024!
 
@@ -28,6 +27,8 @@ I've contributed to:
     - Fixes for examples ([merged](https://github.com/andy-thomason/Vookoo/pull/45))
 
 Here's some discontinued but still kinda neat projects of mine:
+* [**ScriptingMachine4**](https://github.com/Admer456/ScriptingMachine4) - discontinued in favour of the amazing [Coral](https://github.com/StudioCherno/Coral) library
+    - Research in C# scripting for C++ apps
 * [**BurekTech X**](https://github.com/Admer456/btx-engine) - discontinued in favour of Elegy
     - C++ MIT-licenced retro FPS game engine
 * [**BUREKTech**](https://github.com/Admer456/ioq3-burek) - discontinued in favour of BurekTech X
