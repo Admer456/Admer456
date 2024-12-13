@@ -1,5 +1,7 @@
 ## Hey hey hey, welcome to my GitHub profile!
 
+You can check out my [**personal website**](https://microfox.dev/) if you wanna see what I'm up to!
+
 *Where else you may find me:*  
 *Mastodon: https://tech.lgbt/@admer  
 YouTube: https://www.youtube.com/c/Admer456  
@@ -7,9 +9,7 @@ Discord: `admer456` - [personal server](https://discord.gg/tneyeuhgxH)
 LinkTree: https://linktr.ee/admer456  
 Ko-fi: https://ko-fi.com/admer456*
 
-My interests include game & engine programming, GUI tools, VR, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics, music and driving simulators. *Portfolio website coming sometime soon!*
-
-I also have a [small blog](https://microfox.dev/). That way you can always know what I'm up to!
+My interests include game & engine programming, GUI tools, VR, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics, music and driving simulators.
 
 I mainly do stuff in **C#** and **C++**. I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar, as well as doing some freelance work in Source and Unreal.
 
