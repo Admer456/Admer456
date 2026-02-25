@@ -4,19 +4,22 @@ You can check out my [**personal website**](https://microfox.dev/) if you wanna 
 
 *Where else you may find me:*  
 *Mastodon: https://tech.lgbt/@admer  
+BlueSky: https://bsky.app/profile/admer456.bsky.social  
 YouTube: https://www.youtube.com/c/Admer456  
 Discord: `admer456` - [personal server](https://discord.gg/tneyeuhgxH)  
+Signal: `Admer.456`  
+Telegram: `@Admer456`  
 LinkTree: https://linktr.ee/admer456  
 Ko-fi: https://ko-fi.com/admer456*
 
 My interests include game & engine programming, GUI tools, VR, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics, music and driving simulators.
 
-I mainly do stuff in **C#** and **C++**. I am currently studying software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar, as well as doing some freelance work in Source and Godot.
+I mainly do stuff in **C#** and **C++**. I used to study software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar, and have done freelance work in Unreal, Source Engine and Godot.
 
 Check out my cool projects:
 * [**Elegy Engine**](https://github.com/ElegyEngine) - retro FPS game engine
     - C#, MIT-licenced
-    - Early work in progress, please check back in Q4 2025 for demos!
+    - Early work in progress, stay tuned!
 * [**Scripting Machine V**](https://github.com/Admer456/ScriptingMachine5) - minimalist .NET hosting library for C++ apps!
     - C++, C#, MIT-licenced
     - Can be used in game engines, I'm currently using it to port Half-Life SDK to C#
