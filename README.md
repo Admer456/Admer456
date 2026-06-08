@@ -3,16 +3,15 @@
 You can check out my [**personal website**](https://microfox.dev/) if you wanna see what I'm up to!
 
 *Where else you may find me:*  
-*Mastodon: https://tech.lgbt/@admer  
+*VRChat: [Admer456](https://vrchat.com/home/user/usr_3f8ac581-06a9-48da-9a63-c4675b7784a4)  
 BlueSky: https://bsky.app/profile/admer456.bsky.social  
 YouTube: https://www.youtube.com/c/Admer456  
 Discord: `admer456` - [personal server](https://discord.gg/tneyeuhgxH)  
 Signal: `Admer.456`  
-Telegram: `@Admer456`  
-LinkTree: https://linktr.ee/admer456  
+Telegram: `@Admer456`   
 Ko-fi: https://ko-fi.com/admer456*
 
-My interests include game & engine programming, GUI tools, VR, making Half-Life modding great again, and a bunch of other non-code stuff, such as electronics, music and driving simulators.
+My interests include game & engine programming, GUI tools, VR, Half-Life modding, idTech engines, and a bunch of other non-code stuff, such as electronics, music and driving simulators.
 
 I mainly do stuff in **C#** and **C++**. I used to study software engineering at the [Faculty of Information Technologies](https://www.fit.ba/) in Mostar, and have done freelance work in Unreal, Source Engine and Godot.
 
