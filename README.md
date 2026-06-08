@@ -1,6 +1,6 @@
 ## Hey hey hey, welcome to my GitHub profile!
 
-You can check out my [**personal website**](https://microfox.dev/) if you wanna see what I'm up to!
+You can check out my [**personal website**](https://microfox.dev/) to see what I'm up to!
 
 *Where else you may find me:*  
 *VRChat: [Admer456](https://vrchat.com/home/user/usr_3f8ac581-06a9-48da-9a63-c4675b7784a4)  
